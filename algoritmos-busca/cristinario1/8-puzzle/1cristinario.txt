@@ -1,0 +1,28 @@
+CRISTINÁRIO
+SISTEMAS INTELIGENTES
+13.08.2025
+
+-----------------------------------------
+1. QUESTÃO
+-----------------------------------------
+
+Para cada um dos seguintes algoritmos: 
+- Busca em Largura (BFS) 
+- Busca em Profundidade (DFS) 
+- Busca Heurística (Greedy Best-First Search e A*)
+
+Desenvolva:
+
+a) Um pseudocódigo que resolva o problema do jogo dos 8 (8-puzzle), descrevendo claramente a lógica do algoritmo.  
+b) Uma implementação na linguagem de programação de sua preferência, garantindo que:  
+   - O estado do tabuleiro seja representado de forma adequada.  
+   - Os movimentos válidos e a geração de sucessores sejam corretamente tratados.  
+   - Para as buscas heurísticas, seja utilizada uma função heurística (por exemplo, distância de Manhattan).  
+c) Um breve comentário explicando como cada algoritmo funciona e quais são suas principais vantagens e limitações no contexto do problema.
+
+
+-----------------------------------------
+2. QUESTÃO
+-----------------------------------------
+
+Resolva o mesmo problema da questão 1, mas adaptado para o problema das 8 rainhas.
